@@ -19,6 +19,11 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <artifactId>spring-web</artifactId>
       <version>3.2.6.RELEASE</version>
     </dependency>
+    <dependency>
+      <groupId>axis</groupId>
+      <artifactId>axis</artifactId>
+      <version>1.0</version>
+    </dependency>
   </dependencies>
 
 </project>
